@@ -39,6 +39,7 @@ This project aims to collect the **best free resources** for those that want to 
 
 ### Courses
 1. [Elm For Beginners](http://courses.knowthen.com/p/elm-for-beginners)
+1. [Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 1. [Elm on Egghead](https://egghead.io/technologies/elm#all-lesson-list)
 1. [Elm Seeds](https://elmseeds.thaterikperson.com/)
 
